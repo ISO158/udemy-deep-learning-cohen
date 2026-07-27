@@ -26,6 +26,7 @@
 ## 📂 Estrutura do Repositório
 
 ```text
+├── 00-intro-python/            # Introdução ao Python
 ├── 01-math-prerequisites/      # Álgebra linear, cálculo e probabilidade
 ├── 02-regression/              # Regressão Linear, Logística e métricas de avaliação
 ├── 03-neural-networks/         # Redes Neurais do zero e conceitos de backpropagation
