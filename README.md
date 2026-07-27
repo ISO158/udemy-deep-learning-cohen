@@ -1,8 +1,15 @@
-# 🧠 Machine Learning & Deep Learning Studies
+<div align="center">
+  <h1>🧠 Machine Learning & Deep Learning Studies</h1>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter" />
+    <img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=NumPy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  </p>
+</div>
 
-Este repositório contém os códigos, anotações e exercícios desenvolvidos ao longo do curso de Machine/Deep Learning do **Prof. Mike X Cohen** na Udemy.
-
-O objetivo principal é consolidar os conceitos teóricos e matemáticos dos algoritmos através da implementação prática em Python.
+> Este repositório contém os códigos, anotações e exercícios desenvolvidos ao longo do curso de Machine/Deep Learning do **Prof. Mike X Cohen** na Udemy. O objetivo principal é consolidar os conceitos teóricos e matemáticos dos algoritmos através da implementação prática em Python.
 
 ---
 
@@ -18,32 +25,44 @@ O objetivo principal é consolidar os conceitos teóricos e matemáticos dos alg
 
 ## 📂 Estrutura do Repositório
 
-├── 01-math-prerequisites/      # ÁLgebra linear, cálculo e probabilidade
+```text
+├── 01-math-prerequisites/      # Álgebra linear, cálculo e probabilidade
 ├── 02-regression/              # Regressão Linear, Logística e métricas de avaliação
 ├── 03-neural-networks/         # Redes Neurais do zero e conceitos de backpropagation
 ├── 04-deep-learning-pytorch/   # Implementações práticas com PyTorch
 └── README.md                   # Documentação do repositório
+```
 
 ---
 
 ## 📌 Principais Tópicos Cobertos
-[x] Fundamentos Matemáticos: Vetores, matrizes, autovalores/autovetores e derivadas aplicadas.
 
-[x] Regressão & Classificação: Função de custo, Gradient Descent e otimização.
+- [x] **Fundamentos Matemáticos:** Vetores, matrizes, autovalores/autovetores e derivadas aplicadas.
+- [x] **Regressão & Classificação:** Função de custo, Gradient Descent e otimização.
+- [ ] **Redes Neurais Artificiais:** Funções de ativação, perda, otimizadores (Adam, SGD).
+- [ ] **Deep Learning:** CNNs, RNNs e regularização (Dropout, Batch Normalization).
 
-[ ] Redes Neurais Artificiais: Funções de ativação, perda, otimizadores (Adam, SGD).
-
-[ ] Deep Learning: CNNs, RNNs e regularização (Dropout, Batch Normalization).
-
-(Legenda: [x] Concluído | [ ] Em andamento)
+*(Legenda: `[x]` Concluído | `[ ]` Em andamento)*
 
 ---
 
-📬 Contato
-Desenvolvido com foco em aprendizado contínuo.
+## 🚀 Como Executar Localmente
 
-LinkedIn: https://www.linkedin.com/in/igor-oliveira158/
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/ISO158/nome-do-repositorio.git
+   ```
+2. Acesse a pasta:
+   ```bash
+   cd nome-do-repositorio
+   ```
+3. Abra os notebooks no ambiente da sua escolha (Jupyter Lab, VS Code, etc).
 
-GitHub: @ISO158
+---
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+## 📬 Contato
+
+Desenvolvido com foco em aprendizado contínuo e aprimoramento prático em dados e modelos de ML.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-oliveira158/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ISO158)
