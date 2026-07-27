@@ -51,11 +51,11 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/ISO158/nome-do-repositorio.git
+   git clone https://github.com/ISO158/udemy-deep-learning-cohen.git
    ```
 2. Acesse a pasta:
    ```bash
-   cd nome-do-repositorio
+   cd udemy-deep-learning-cohen
    ```
 3. Abra os notebooks no ambiente da sua escolha (Jupyter Lab, VS Code, etc).
 
