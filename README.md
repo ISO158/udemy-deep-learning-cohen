@@ -25,7 +25,7 @@
 
 Os pacotes utilizados podem ser instalados diretamente usando:
    ```bash
-   setup.sh
+   sh setup.sh
    ```
 
 ---
