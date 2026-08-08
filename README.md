@@ -23,6 +23,10 @@
 
 ---
 
+Os pacotes utilizados podem ser instalados diretamente usando **setup.sh**.
+
+---
+
 ## 📂 Estrutura do Repositório
 
 ```text
