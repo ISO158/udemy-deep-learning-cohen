@@ -23,7 +23,10 @@
 
 ---
 
-Os pacotes utilizados podem ser instalados diretamente usando **setup.sh**.
+Os pacotes utilizados podem ser instalados diretamente usando:
+   ```bash
+   setup.sh
+   ```
 
 ---
 
