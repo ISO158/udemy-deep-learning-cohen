@@ -26,6 +26,10 @@ pip install torch torchvision torchaudio
 echo " Instalando o ScyPy"
 pip install scipy
 
+# 7. Instala o Sympy
+echo " Instalando o Sympy"
+pip install sympy
+
 # Vincula o ambiente ao VS Code / Jupyter
 echo "🔗 Configurando o kernel interativo..."
 python -m ipykernel install --user --name=.venv --display-name="Python (Deep Learning Cohen)"
