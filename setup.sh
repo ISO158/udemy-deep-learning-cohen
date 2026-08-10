@@ -22,7 +22,11 @@ pip install numpy pandas matplotlib seaborn jupyterlab ipykernel
 echo "🔥 Instalando o PyTorch..."
 pip install torch torchvision torchaudio
 
-# 6. Vincula o ambiente ao VS Code / Jupyter
+# 6. Instala o SciPy
+echo " Instalando o ScyPy"
+pip install scipy
+
+# Vincula o ambiente ao VS Code / Jupyter
 echo "🔗 Configurando o kernel interativo..."
 python -m ipykernel install --user --name=.venv --display-name="Python (Deep Learning Cohen)"
 
