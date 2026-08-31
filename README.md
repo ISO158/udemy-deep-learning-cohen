@@ -35,9 +35,11 @@ Os pacotes utilizados podem ser instalados diretamente usando:
 ```text
 ├── 00-intro-python/            # Introdução ao Python
 ├── 01-math-prerequisites/      # Álgebra linear, cálculo e probabilidade
-├── 02-regression/              # Regressão Linear, Logística e métricas de avaliação
-├── 03-neural-networks/         # Redes Neurais do zero e conceitos de backpropagation
-├── 04-deep-learning-pytorch/   # Implementações práticas com PyTorch
+├── 02-gradient-descent/              # Análise do gradiente descendente
+├── 03-artificial-neural-networks/         # Redes Neurais Artificiais
+├── 04-overfitting-cross_validation/   # Overfitting e Validação
+├── 05-test/   # 
+├── 06-test/   # 
 └── README.md                   # Documentação do repositório
 ```
 
